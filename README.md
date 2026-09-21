@@ -31,3 +31,4 @@ all code changes.
 To get line coverage, do
 
     cargo tarpaulin --ignore-tests
+ 
